@@ -53,21 +53,21 @@ Game functions on a per-second scan to spawn new enemies, powerups and to move t
 ![circuit setup](https://i.imgur.com/vk1NrQW.jpg)
 
 ## Known Bugs:
-- about menu line shows a down arrow even though it's only one total line
-- menu doesn't update when game starts but will update at points / level / life alteration - possible interference or something
+- About menu line shows a down arrow even though it's only one total line
+- Menu doesn't update when game starts but will update at points / level / life alteration - possible interference or something
 - LCD flickering annoyingly while in-game
-- pressing the button while on auto shoot instantly uses the stored powerup
-- bomb powerup is badly designed
-- enemies sometimes get stuck - no idea why
-- enemies move and shoot extremely random
+- Pressing the button while on auto shoot instantly uses the stored powerup
+- Bomb powerup is badly designed
+- Enemies sometimes get stuck - no idea why
+- Enemies move and shoot extremely random
 
 
 ## To Do List:
-- hi scores menu (almost out of mem)
-- proper player name
-- proper game over
-- proper game intro
-- sound
-- a way to force exit the game instead of hard reseting
-- more randomized enemy shooting, they seem to synchronize a lot
+- Hi-Scores Menu
+- Proper Player Name
+- Proper Game Over
+- Proper Game Intro
+- Sound
+- A way to force exit the game instead of hard reseting
+- More randomized enemy shooting, they seem to synchronize a lot
 - Arduino controlled LCD backlight
