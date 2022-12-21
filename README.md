@@ -24,8 +24,8 @@ When in the About menu, press the joystick again to exit.<br>
 Adjust selected setting by turning the joystick left or right.<br><br>
 
 ### 2. Playing the game:
-Left / Right - move the player
-Press - shoot a projectile
+Left / Right - move the player<br>
+Press - shoot a projectile<br>
 Hold - use stored powerup
 <br><br>
 ### 3. Ending the game:
