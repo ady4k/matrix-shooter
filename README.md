@@ -71,3 +71,5 @@ Game functions on a per-second scan to spawn new enemies, powerups and to move t
 - A way to force exit the game instead of hard reseting
 - More randomized enemy shooting, they seem to synchronize a lot
 - Arduino controlled LCD backlight
+- Refactor and split main file into more headers
+- Code comments
